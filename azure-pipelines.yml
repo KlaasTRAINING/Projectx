@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: good
+  name: win-agent
 
 variables:
   solution: '**/*.sln'
