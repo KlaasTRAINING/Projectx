@@ -46,5 +46,5 @@ steps:
     ConnectionType: 'AzureRM'
     azureSubscription: 'projectx-sserviceconnection'
     appType: 'webApp'
-    WebAppName: 'projectxxxxxx'
+    WebAppName: 'projectx-az400'
     packageForLinux: '$(System.ArtifactsDirectory)/drop/*.zip'
